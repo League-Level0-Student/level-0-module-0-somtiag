@@ -7,7 +7,7 @@ public class MyJavaProgram {
 		
 		// START HERE
 	
-		
+System.out.println("Welcome to the world of Java");
 		
 	}
 }
